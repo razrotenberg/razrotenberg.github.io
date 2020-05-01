@@ -1,0 +1,29 @@
+- name: How to Break GPU Memory Boundaries Even with Large Batch Sizes
+  url: https://towardsdatascience.com/how-to-break-gpu-memory-boundaries-even-with-large-batch-sizes-7a9c27a400ce?source=friends_link&sk=74a7a2793da909c1194c0add818c7fd3
+  date: Jan 19, 2020
+  content: Overcoming the problem of batch size and available GPU memory in training neural networks
+
+- name: What is Gradient Accumulation in Deep Learning?
+  url: https://towardsdatascience.com/what-is-gradient-accumulation-in-deep-learning-ec034122cfa?source=friends_link&sk=28226e1d0ffa7e450d7dffa8d5b9cff6
+  date: Jan 22, 2020
+  content: Backpropagation process of neural networks explained
+
+- name: How to Easily Use Gradient Accumulation in Keras Models
+  url: https://towardsdatascience.com/how-to-easily-use-gradient-accumulation-in-keras-models-fa02c0342b60?source=friends_link&sk=ff9137c1c7fa5bbfc4c4e09bacc0273b
+  date: Jan 22, 2020
+  content: A step-by-step guide to implementing a generic gradient accumulation mechanism
+
+- name: Dynamic Linking in Linux
+  url: https://docs.google.com/presentation/d/1OjgcYJoBmHl0yh0PTpbpv5GndQ3uGH4kTk1ez8OWep0/edit?usp=sharing
+  date: Feb 2020
+  content: |
+    A fully reproducible workshop along with a [presentation](https://docs.google.com/presentation/d/1OjgcYJoBmHl0yh0PTpbpv5GndQ3uGH4kTk1ez8OWep0/edit?usp=sharing){:target="_blank"}.
+    <br>
+    Source available on [GitHub](https://github.com/levosos/dynamic-linking-in-linux-workshop){:target="_blank"}.
+
+    {:.no-margin-bottom}
+    Deep diving into ELF files and dynamic linking in Linux:
+    * Overviewing famous ELF sections and segments
+    * Examining compiled ELF files
+    * Using LD_PRELOAD to hook dynamic symbols
+    * Using relocation information to hook dynamic symbols
