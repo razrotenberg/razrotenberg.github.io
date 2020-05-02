@@ -47,7 +47,7 @@ permalink: /projects/
 
 {% for project in site.projects %}
 
-<hr class="spacer">
+<hr>
 
 <div class="container">
   <div class="col left">

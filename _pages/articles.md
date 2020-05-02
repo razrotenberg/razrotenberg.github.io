@@ -6,7 +6,7 @@ permalink: /articles/
 
 {% for article in site.data.articles %}
 
-<hr class="spacer">
+<hr>
 
 {:.article-name}
 ### [{{ article.name }}]({{ article.url }}){:target="_blank"}
