@@ -1,7 +1,43 @@
 ---
 ---
+// load 'Inconsolata' font
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+// overwrite 'minima' style variables
+$base-font-family:  Inconsolata, monospace !default;
+$base-font-size:    18px !default;
+
+// load 'minima' style sheets
 @import "minima";
 
+// define custom styles
 .article-name, .no-margin-bottom {
   margin-bottom: 0px;
+}
+
+a.button {
+  display: inline-block;
+  padding: 0.35em 1.2em;
+  border: 2px solid $grey-color-dark;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.12em;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: $grey-color-dark;
+  text-align: center;
+
+  // full width on small screens
+  @media screen and (max-width: 500px) {
+    width: 100%;
+  }
+}
+
+a.button:hover {
+  color: #FFFFFF;
+  background-color: $grey-color-dark;
+}
+
+.spacer {
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
