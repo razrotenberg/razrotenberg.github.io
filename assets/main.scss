@@ -41,9 +41,12 @@ a.button {
   }
 }
 
-a.button:hover {
-  color: #FFFFFF;
-  background-color: $grey-color-dark;
+// change color on hover in large screens
+@media screen and (min-width: 500px) {
+  a.button:hover {
+    color: #FFFFFF;
+    background-color: $grey-color-dark;
+  }
 }
 
 .spacer {
