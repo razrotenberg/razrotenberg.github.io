@@ -13,3 +13,7 @@ theme: minima
 
 include:
   _pages
+
+collections:
+  projects:
+    output: true
