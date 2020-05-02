@@ -11,6 +11,13 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 
+header_pages:
+  - _pages/hello.md
+  - _pages/about.md
+  - _pages/articles.md
+  - _pages/projects.md
+  - _pages/music.md
+
 include:
   _pages
 
