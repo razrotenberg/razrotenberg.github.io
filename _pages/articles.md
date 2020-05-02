@@ -4,17 +4,17 @@ title: Articles
 permalink: /articles/
 ---
 
-{% if site.data.articles.size > 0 %}
----
-{% endif %}
-
-
 {% for article in site.data.articles %}
+
+<hr class="spacer">
 
 {:.article-name}
 ### [{{ article.name }}]({{ article.url }}){:target="_blank"}
+
 ##### {{ article.date }}
+
 {{ article.content }}
 
----
+[Read more...]({{article.url}}){:.button target="_blank"}
+
 {% endfor %}
