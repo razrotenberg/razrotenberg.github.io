@@ -12,7 +12,7 @@ I love music, and I was intrigued to know how it is represented digitally.
 This led me to learn [DSP](https://www.coursera.org/learn/dsp1){:target="_blank"},
 and after a few weeks of studying, I started to look for a project idea that would involve both music and technology.
 
-I ran into [this](https://create.arduino.cc/projecthub/dra/arduino-midi-arpeggiator-3bd731) Arduino project and even though MIDI is not proper DSP,
+I ran into [this](https://create.arduino.cc/projecthub/dra/arduino-midi-arpeggiator-3bd731){:target="_blank"} Arduino project and even though MIDI is not proper DSP,
 it was immediately clear to me that I want to build a MIDI sequencer myself.
 
 Back then I knew nothing about Arduino or electronics.
@@ -24,9 +24,9 @@ During the development of Arpeggino, I learned a lot about Arduino and electroni
 and I was fascinated by how code and music theory seamlessly integrate.
 
 Arpeggino consists of three sub-projects:
-* [Controlino](https://github.com/levosos/Controlino) - An Arduino library for using complex gestures of input controls behind a multiplexer.
-* [Midier](https://github.com/levosos/Midier) - An Arduino library for playing, recording, looping and programming MIDI notes, arpeggios and sequences.
-* [Arpeggino](https://github.com/levosos/Arpeggino) - An Arduino sketch responsible for the I/O controls, LCD, serial connection, etc.
+* [Controlino](https://github.com/levosos/Controlino){:target="_blank"} - An Arduino library for using complex gestures of input controls behind a multiplexer.
+* [Midier](https://github.com/levosos/Midier){:target="_blank"} - An Arduino library for playing, recording, looping and programming MIDI notes, arpeggios and sequences.
+* [Arpeggino](https://github.com/levosos/Arpeggino){:target="_blank"} - An Arduino sketch responsible for the I/O controls, LCD, serial connection, etc.
 
 <div class="youtube-container">
     <iframe src="https://www.youtube.com/embed/HbMf0oO-zfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
