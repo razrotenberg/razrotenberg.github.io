@@ -13,7 +13,7 @@ I also started listening to jazz (Miles Davis, John Coltrane, Dave Brubeck) a co
 
 I played the guitar for several years, but a few years ago I found out I am more of a drummer.
 I currently play in a band, and we are working on some songs.
-When I'm not practicing, I transcribe [drum charts](https://musescore.com/user/34307472){:target="_blank"} and play drum covers.
+When I'm not practicing, I transcribe [drum charts](https://musescore.com/razrotenberg){:target="_blank"} and play drum covers.
 
 I enjoy everything related to music, and plan to create more in the future.
 

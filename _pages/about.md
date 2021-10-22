@@ -15,6 +15,6 @@ By now, I had the privilege to work on various technologies and in different dom
 - Deep-learning (TensorFlow, Keras, PyTorch, Horovod)
 - GPU virtualization (CUDA, containers)
 
-I published a few [articles](/articles) about deep-learning on [Medium](https://medium.com/@razhaleva){:target="_blank"}.
+I published a few [articles](/articles) about deep-learning on [Medium](https://medium.com/@raz.rotenberg){:target="_blank"}.
 
 When I'm not at work, I love making side [projects](/projects) to learn new technologies.

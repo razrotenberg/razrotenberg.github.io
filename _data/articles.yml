@@ -19,7 +19,7 @@
   content: |
     A fully reproducible workshop along with a [presentation](https://docs.google.com/presentation/d/1OjgcYJoBmHl0yh0PTpbpv5GndQ3uGH4kTk1ez8OWep0/edit?usp=sharing){:target="_blank"}.
     <br>
-    Source available on [GitHub](https://github.com/levosos/dynamic-linking-in-linux-workshop){:target="_blank"}.
+    Source available on [GitHub](https://github.com/razrotenberg/dynamic-linking-in-linux-workshop){:target="_blank"}.
 
     {:.no-margin-bottom}
     Deep diving into ELF files and dynamic linking in Linux:
